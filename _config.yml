@@ -3,6 +3,9 @@ email: kbellioum@itknowledgema.com
 description: > #KODUS assure l’accompagne­ment et la concrétisation de vos projets d’aménagement, quel que soit l’am­pleur des chantiers.
 
 
+logo: https://res.cloudinary.com/kbellioum/image/upload/v1490721230/logo_gr0l2n.png
+
+
 # Where things are
 source:       .
 destination:  ./_site
