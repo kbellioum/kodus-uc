@@ -6,6 +6,11 @@ description: > #KODUS assure l’accompagne­ment et la concrétisation de vos p
 logo: https://res.cloudinary.com/kbellioum/image/upload/v1490721230/logo_gr0l2n.png
 
 
+sass:
+  sass_dir: /assets/styles
+  style: compressed
+
+
 # Where things are
 source:       .
 destination:  ./_site
